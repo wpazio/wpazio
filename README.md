@@ -1,9 +1,3 @@
-<div align="center">
-  Wojciech Pazio<br/>
-  wpaz.io
-</div>
-<hr/>
-
 ### **me**
 
 I am software engineer passionate about mobile development and focused on understanding business domains which is a key to be able to craft best tailored software and make business value.
