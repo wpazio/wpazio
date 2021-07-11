@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  Wojciech Pazio<br/>
+  wpaz.io
+</div>
+<hr/>
 
-<!--
-**wpazio/wpazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **me**
 
-Here are some ideas to get you started:
+I am software engineer passionate about mobile development and focused on understanding business domains which is a key to be able to craft best tailored software and make business value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a Flutter Developer @ [Flooz.link](https://flooz.link)
+
+have a look on my [Developer Story](https://stackoverflow.com/story/wpazio) on StackOverflow, [CV](https://stackoverflow.com/cv/wpazio) or [LinkedIn](https://www.linkedin.com/in/wojciechpazio/) 
+
+I am also interested in AI mostly in NLP area, my master thesis was about artificial neural networks in sentiment analysis and my bachelor thesis was about building platform for sentiment analysis for a stream of data.
