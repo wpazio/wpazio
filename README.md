@@ -1,10 +1,10 @@
 ### hi! 👋
 
-I am software engineer passionate about mobile development and focused on understanding business domains which is a key to be able to craft best tailored software and make business value.
+I am software engineer passionate about mobile development. I tend to focus on understanding business domains which to my mind is a key to be able to craft best tailored software and make business value.
 
-📓 domain driven design 🧪 test driven development
+📓 domain driven design 🧪 test driven development enthusiast 
 
-💻 **clean code** means easy to maintain 
+💻 me believes that clean code means easy to maintain 
 
 on daily basis a Flutter Developer @ [Flooz.link](https://flooz.link)
 
