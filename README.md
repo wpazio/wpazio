@@ -8,6 +8,6 @@ I am software engineer passionate about mobile development. I tend to focus on u
 
 on daily basis a Flutter Developer @ [Flooz.link](https://flooz.link)
 
-have a look on my [Developer Story](https://stackoverflow.com/story/wpazio) on Stack Overflow, [CV](https://stackoverflow.com/cv/wpazio) or [LinkedIn](https://www.linkedin.com/in/wojciechpazio/) 
+have a look on my [profile](https://stackoverflow.com/users/1631253/wpazio) on Stack Overflow or [LinkedIn](https://www.linkedin.com/in/wojciechpazio/) 
 
 I am also interested in AI mostly in NLP area, my master thesis was about artificial neural networks in sentiment analysis and my bachelor thesis was about building platform for sentiment analysis for a stream of data.
